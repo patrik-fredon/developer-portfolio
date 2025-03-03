@@ -1,7 +1,7 @@
 export const personalData = {
   name: "FREDON",
   profile: '/profile.png',
-  designation: "Multi-skilled Fullstack developer",
+  designation: "Passionate Full-Stack Architect & Digital Craftsman | Coding Since Age 12",
   description: "Thank you for considering my profile. I am dedicated to delivering high-quality solutions tailored to your needs. My extensive experience, technical skills, and dedication make me the ideal partner for your project. Sincerely, Bc. Patrik Svoboda BSc.",
   email: 'onlyFredon@proton.me',
   phone: '+420 793 955 370',
